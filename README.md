@@ -4,7 +4,7 @@
 ***
 
 Few Days back, I was given some [websites](#websites) and asked to extract some important data out of it. First it seems hectic to do this work manually. That would take a lot of effort and time. I, as a lazy person, need to find a way which could automate this task. Then web Scraping comes into picture. It has 3 program in this project
-1. [Amazon Bestseller scraping](https://github.com/sanjeet1999/webscraping/tree/master/Amazon_Book_Scraping_project)
+1. [Amazon Bestseller scraping](https://github.com/sanjeet1999/webscraping/tree/master/Amazon_Bestseller_scraping_project)
 2. [Book Scraping](https://github.com/sanjeet1999/webscraping/tree/master/Book_Scraping_Project)
 3. [comic downloader](https://github.com/sanjeet1999/webscraping/tree/master/comic_scraping)
 ## Project Motive
@@ -42,7 +42,7 @@ python comic_downloader.py
 ``` 
 > And your xkcd comic will start downloading in a file with the name xkcd in your directory.
 
-![Inside xkcd](https://ibb.co/R4Z5TxQ)
+![Inside xkcd](image.png)
 
 
 
