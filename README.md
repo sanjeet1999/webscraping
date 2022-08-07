@@ -6,7 +6,7 @@
 Few Days back, I was given some [websites](#websites) and asked to extract some important data out of it. First it seems hectic to do this work manually. That would take a lot of effort and time. I, as a lazy person, need to find a way which could automate this task. Then web Scraping comes into picture. It has 3 program in this project
 1. [Amazon Bestseller scraping](https://github.com/sanjeet1999/webscraping/tree/master/Amazon_Bestseller_scraping_project)
 2. [Book Scraping](https://github.com/sanjeet1999/webscraping/tree/master/Book_Scraping_Project)
-3. [comic downloader](https://github.com/sanjeet1999/webscraping/tree/master/comic_scraping)
+3. [comic downloader](https://github.com/ sanjeet1999/webscraping/tree/master/comic_scraping)
 ## Project Motive
 ---
 Motive of this project is to automate the extraction of essential data from webpages. And represent them in a structured format.
